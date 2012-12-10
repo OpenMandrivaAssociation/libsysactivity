@@ -58,3 +58,10 @@ developing applications that use %{name}.
 %{_libdir}/%{name}.so
 %{_libdir}/cmake/%{name}
 
+
+
+%changelog
+* Sun May 27 2012 Matthew Dawkins <mattydaw@mandriva.org> 0.6.3-1
++ Revision: 800857
+- imported package libsysactivity
+
