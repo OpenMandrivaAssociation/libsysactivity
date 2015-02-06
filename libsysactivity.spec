@@ -7,7 +7,7 @@
 Summary:	Library for retrieving statistics of the system`s activity
 Name:		libsysactivity
 Version:	0.6.3
-Release:	1
+Release:	2
 Group:		System/Libraries
 License:	LGPLv2+
 URL:		http://sourceforge.net/projects/libsysactivity/
